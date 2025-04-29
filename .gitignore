@@ -1,0 +1,13 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual env
+.venv/
+
+# Editor / OS files
+.idea/
+.vscode/
+.DS_Store
